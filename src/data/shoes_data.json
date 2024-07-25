@@ -1,0 +1,154 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Converse",
+        "slug": "Sneakers",
+        "description": "Sneakers Shoes",
+        "price": 5000,
+        "isFeatured": true,
+        "image": "https://images.unsplash.com/photo-1561909848-977d0617f275?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+      },
+      {
+        "id": 2,
+        "title": "New Balance",
+        "slug": "Sport",
+        "description": "Sport Shoes",
+        "price": 3000,
+        "instructor": "Jane Smith",
+        "isFeatured": false,
+        "image": "https://images.unsplash.com/photo-1539185441755-769473a23570?q=80&w=1771&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+      },
+      {
+        "id": 3,
+        "title": "NIKE",
+        "slug": "Sneakers",
+        "description": "Air Force",
+        "price": 6000,
+        "instructor": "Emily Johnson",
+        "isFeatured": true,
+        "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?q=80&w=1712&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+      },
+      {
+        "id": 4,
+        "title": "Converse",
+        "slug": "Sneakers",
+        "description": "Sneakers Shoes",
+        "price": 5500,
+        "instructor": "Mike Brown",
+        "isFeatured": false,
+        "image": "https://images.unsplash.com/photo-1555378322-a8e1515568e4?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+      },
+      {
+        "id": 5,
+        "title": "PUMA",
+        "slug": "Sneakers",
+        "description": "White Sneakers",
+        "price": 4000,
+        "instructor": "Chris Davis",
+        "isFeatured": false,
+        "image": "https://images.unsplash.com/photo-1715003132857-2a84aacba769?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+      },
+      {
+        "id": 6,
+        "title": "PUMA",
+        "slug": "Sneakers",
+        "description": "Sneakers Shoes",
+        "price": 7000,
+        "instructor": "Alex Wilson",
+        "isFeatured": true,
+        "image": "https://images.unsplash.com/photo-1715001750243-7b8d552d4778?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+      },
+      {
+        "id": 7,
+        "title": "Converse",
+        "slug": "Sneakers",
+        "description": "Red Sneakers",
+        "price": 8000,
+        "instructor": "Samantha Miller",
+        "isFeatured": false,
+        "image": "https://images.unsplash.com/photo-1626707695986-751d8776f39e?q=80&w=1886&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+      },
+      {
+        "id": 8,
+        "title": "Converse",
+        "slug": "Sneakers",
+        "description": "White Sneakers",
+        "price": 3000,
+        "instructor": "Luke Harris",
+        "isFeatured": true,
+        "image": "https://images.unsplash.com/photo-1631482665588-d3a6f88e65f0?q=80&w=1985&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+      },
+      {
+        "id": 9,
+        "title": "Skechers",
+        "slug": "Sport",
+        "description": "Sport Shoes",
+        "price": 4500,
+        "instructor": "Grace Lee",
+        "isFeatured": false,
+        "image": "https://images.unsplash.com/photo-1625515921533-c9195ff2a7e2?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+      },
+      {
+        "id": 10,
+        "title": "NIKE",
+        "slug": "Sneakers",
+        "description": "Nike White Sneakers",
+        "price": 6000,
+        "instructor": "Ethan Moore",
+        "isFeatured": true,
+        "image": "https://images.unsplash.com/photo-1512374382149-233c42b6a83b?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+      },
+      {
+        "id": 11,
+        "title": "PUMA",
+        "slug": "Sport",
+        "description": "Sport Shoes",
+        "price": 6000,
+        "instructor": "Ethan Moore",
+        "isFeatured": false,
+        "image": "https://images.unsplash.com/photo-1715692965422-280fe6566146?q=80&w=1776&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 12,
+        "title": "BATA",
+        "slug": "Formal",
+        "description": "Formal Shoes",
+        "price": 6000,
+        "instructor": "Ethan Moore",
+        "isFeatured": false,
+        "image": "https://plus.unsplash.com/premium_photo-1673627556491-2114d2480d1f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 13,
+        "title": "BATA",
+        "slug": "Formal",
+        "description": "Formal Shoes",
+        "price": 6000,
+        "instructor": "Ethan Moore",
+        "isFeatured": false,
+        "image": "https://images.unsplash.com/photo-1641893843833-a006778dc00b?q=80&w=2046&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+      },
+      {
+        "id": 14,
+        "title": "BATA",
+        "slug": "Formal",
+        "description": "Formal Shoes",
+        "price": 6000,
+        "instructor": "Ethan Moore",
+        "isFeatured": true,
+        "image": "https://images.unsplash.com/photo-1533867617858-e7b97e060509?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+      },
+      {
+        "id": 15,
+        "title": "NIKE",
+        "slug": "Sport",
+        "description": "Nike football shoes",
+        "price": 6000,
+        "instructor": "Ethan Moore",
+        "isFeatured": true,
+        "image": "https://images.unsplash.com/photo-1536121752905-02ab90945c26?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      }
+    ]
+  }
+  
