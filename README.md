@@ -1,1 +1,1 @@
-Hey everyone, This project based on the basics of Next.js, the concept of React.js, and client-side Next.js routing. This project helped me understand the flow of data in Next.js, and I did the design work using the newly released Open UI (Aceternity UI) and Tailwind CSS. The Aceternity UI components had some bugs, which helped me develop my debugging skills and improve my ability to read documentation effectively
+
